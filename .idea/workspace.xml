@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0b90bb2-385e-4b4d-87c9-7829385aa889" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/AllOverParticipantImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/Athlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/AthleteImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/JumpingAthlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/JumpingAthleteImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/SwimmingAthlete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/SwimmingAthleteImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/TeamPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task1/TeamPlayerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task4/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task1/Changer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task1/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task4/GenericQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task4/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,28 +19,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab7/task2/Program.java">
+        <entry file="file://$PROJECT_DIR$/src/lab8/task4/GenericQuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+            <state relative-caret-position="255">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab7/task3/Program.java">
+        <entry file="file://$PROJECT_DIR$/src/lab8/task1/Pair.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+            <state relative-caret-position="323">
+              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+              <folding>
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lab8/task1/Changer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab7/task4/Program.java">
+        <entry file="file://$PROJECT_DIR$/src/lab8/task4/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="136">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <element signature="e#276#284#0" expanded="true" />
+                <element signature="e#359#368#0" expanded="true" />
+                <element signature="e#434#442#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,6 +124,11 @@
         <option value="$PROJECT_DIR$/src/lab7/task3/MathOperator.java" />
         <option value="$PROJECT_DIR$/src/lab7/task3/Program.java" />
         <option value="$PROJECT_DIR$/src/lab7/task4/Program.java" />
+        <option value="$PROJECT_DIR$/src/lab8/task4/Program.java" />
+        <option value="$PROJECT_DIR$/src/lab8/task4/GenericQuickSort.java" />
+        <option value="$PROJECT_DIR$/src/lab8/task1/Pair.java" />
+        <option value="$PROJECT_DIR$/src/lab8/task1/Sorter.java" />
+        <option value="$PROJECT_DIR$/src/lab8/task1/Changer.java" />
       </list>
     </option>
   </component>
@@ -130,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -147,38 +164,30 @@
               <item name="SamSolutions_Java_labs" type="b2602c69:ProjectViewProjectNode" />
               <item name="SamSolutions_Java_labs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab7" type="462c0819:PsiDirectoryNode" />
+              <item name="lab8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SamSolutions_Java_labs" type="b2602c69:ProjectViewProjectNode" />
               <item name="SamSolutions_Java_labs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab7" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="lab8" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SamSolutions_Java_labs" type="b2602c69:ProjectViewProjectNode" />
               <item name="SamSolutions_Java_labs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab7" type="462c0819:PsiDirectoryNode" />
-              <item name="task3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SamSolutions_Java_labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SamSolutions_Java_labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab7" type="462c0819:PsiDirectoryNode" />
+              <item name="lab8" type="462c0819:PsiDirectoryNode" />
               <item name="task4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552503418578" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552983017363" />
     <property name="last_opened_file_path" value="E:/JavaFundamentalsTasks-master/JavaFundamentalsTasks-master/Lab No 5" />
   </component>
   <component name="RecentsManager">
@@ -204,20 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program (2)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab6.task2.Main" />
-      <module name="SamSolutions_Java_labs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab6.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program (3)">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab6.task4.Main" />
       <module name="SamSolutions_Java_labs" />
@@ -257,6 +253,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab8.task4.Program" />
+      <module name="SamSolutions_Java_labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab8.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab7.task1.Program" />
       <module name="SamSolutions_Java_labs" />
@@ -272,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program (3)" />
         <item itemvalue="Application.Program (2)" />
         <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +305,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23959732" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24295302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,41 +362,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab3/task1.java" />
-    <entry file="file://$PROJECT_DIR$/src/lab1/task6/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab1/task5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab1/task4/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab1/task1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab1/task7/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab3/lab3/task1/Belarus.java" />
     <entry file="file://$PROJECT_DIR$/src/lab2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -662,15 +636,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab7/task2/Week.java" />
     <entry file="file://$PROJECT_DIR$/src/lab7/task3/MathOperator.java" />
-    <entry file="file://$PROJECT_DIR$/src/lab7/task2/Program.java">
+    <entry file="file://$PROJECT_DIR$/SamSolutions_Java_labs.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab7/task4/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SamSolutions_Java_labs.iml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/lab8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab7/task3/Program.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -679,10 +660,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab7/task4/Program.java">
+    <entry file="file://$PROJECT_DIR$/src/lab7/task2/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="641">
+          <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab1/task1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/task1/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/task1/Changer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/task4/GenericQuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab8/task4/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#276#284#0" expanded="true" />
+            <element signature="e#359#368#0" expanded="true" />
+            <element signature="e#434#442#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
