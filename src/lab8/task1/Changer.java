@@ -17,7 +17,7 @@ public class Changer {
         array.add(new Pair(9,'j'));
     }
     private Changer(){}
-    public static String change(int number){
+   // public static String change(int number){
 
     }
-}
+//}
